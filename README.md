@@ -26,9 +26,9 @@ As of writing, the red alerts are gone, but you still never know. I'll keep the 
 
 ### FURTHER READING, WEBSITE
 
-When you enter the site, **you'll first encounter a blank page containing only the text "Click me to proceed to the site"**. **Don't worry, this is normal** and only serves as a small captcha and a workaround on a certain annoying thing I faced when creating the site. This might be fixed in v2.0 but I'll leave it for now due to it possibly causing chrome to trigger red-screens again on the page when I just fixed that T^T
+No more CAPTCHA redirect.
 
-**NOTE:** The Github Pages site will recieve updates whenever I commit to github. **As stated, the Github Pages site is recommended for usage, instead of the zip**. If you look at the commit history, I used to have another website hosted from a site called replit. I decided to drop that.
+**NOTE:** The Github Pages site will receive updates whenever I commit to github. **As stated, the Github Pages site is recommended for usage, instead of the zip**. If you look at the commit history, I used to have another website hosted from a site called replit. I decided to drop that.
 
 **NOTE:** If you downloaded the release zip onto your system, it won't get updated, unlike the live site on github. You have to manually redownload the releases or directories everytime you want to get news updates (whenever I update, since in the first place this is simply a project) if you want to keep using the system-only version.
 
