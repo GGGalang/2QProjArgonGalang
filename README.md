@@ -10,10 +10,10 @@ summary in the form of a paragraph for each news bit. Dedicated to serving true,
 Bugs be expected, easter eggs be found!
 
 ## Testing Site:
-1. Github Pages (**New Domain!**): [Here](https://www.pasama.ml/)
+1. Github Pages: [Here](https://www.pasama.ml/)
 
-## READ VERY IMPORTANT (TEST SITE)
-As of writing, the site is still under testing and is fairly new. Thus, chrome (and other browsers) deemed it fit to smack it with a "red alert", which tells all users that the site is "unsafe". **It is not**, and can be proven by the code that the site doesn't even gather your data at all. This actually already happened before in an old release, when the site was newly launched. This was resolved, until it happened again this time due to me changing the domain from github's default provided domain to a custom made one. I'm hoping it'll eventually be gone but for now, follow these steps when you experience a red alert:
+## READ VERY IMPORTANT (WEBSITE)
+As of writing, the site has been up for a fairly long time, but I don't want to take risks on the user's experience. Chrome used to flag the site as dangerous and gives you a pop-up of what I call a "red-alert". I don't think it does it anymore, but just in case it does give you the alert, follow these steps:
 
 #### RED ALERT STEPS
 1. Click the "Details" button
@@ -24,11 +24,7 @@ Wabam! You're all done, and it should just direct you to the site itself. If the
 ### NOTE
 As of writing, the red alerts are gone, but you still never know. I'll keep the instructions just in case they come back.
 
-### FURTHER READING, WEBSITE
-
-No more CAPTCHA redirect.
-
-**NOTE:** The Github Pages site will receive updates whenever I commit to github. **As stated, the Github Pages site is recommended for usage, instead of the zip**. If you look at the commit history, I used to have another website hosted from a site called replit. I decided to drop that.
+**NOTE:** The Github Pages site will receive updates whenever I commit to github. **As stated, the Github Pages site is recommended for usage, instead of the zip**. Easier access without having to use some storage on your system, and updates are live!
 
 **NOTE:** If you downloaded the release zip onto your system, it won't get updated, unlike the live site on github. You have to manually redownload the releases or directories everytime you want to get news updates (whenever I update, since in the first place this is simply a project) if you want to keep using the system-only version.
 
