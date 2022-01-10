@@ -1,16 +1,20 @@
-# GGGalang.github.io
-The repository host for the PASAMA Project. Merged for all-in-one hosting.
+# 2QProjArgonGalang: Latest Update only for AA1.
+The repository host for the PASAMA Project, v1.x!
+
+# NOTE: I AM NOW USING THE SITE HOST REPO FOR FUTURE UPDATES. THIS REPO IS DISCONTINUED, AND WILL NO LONGER RECEIVE UPDATES.
+By the time you're checking this, the site itself may look a bit different than the zip, there might be new updates, etc. I didn't do this before due to confusion, but please take note of this. Don't worry! The files here are the same as the ones I passed in the original submission in KHUB with the zip (with the exception of this ReadME). The dates might be different due to some github editing stuff but nonetheless, the same.
 
 This project is quite literally the project of a 14-year-old. Please expect imperfections and bugs if you even happen to come across this repo, or if you're my teacher then hi sir!
 
 The PASAMA Project: Paalala SA Mga Madla<br>
-Dedicated to serving news and information to the people, from the people. Sources from different yet all reputable outlets and websites, with links for further reading yet a small
-summary in the form of a paragraph for each news bit. Dedicated to serving true, unbiased information to the best of my ability.
+Dedicated to serving news and information to the people, from the people. Sources from different yet all reputable outlets and websites, with links for further reading yet a small summary in the form of a paragraph for each news bit. Dedicated to serving true, unbiased information to the best of my ability.
 
 Bugs be expected, easter eggs be found!
 
 ## Testing Site:
 1. Github Pages: [Here](https://www.pasama.ml/)
+
+##### NOTE: AGAIN, the live site MIGHT BE UPDATED compared to this. This repo is discontinued after all, and I'm already working on AA2.
 
 ## READ VERY IMPORTANT (WEBSITE)
 As of writing, the site has been up for a fairly long time, but I don't want to take risks on the user's experience. Chrome used to flag the site as dangerous and gives you a pop-up of what I call a "red-alert". I don't think it does it anymore, but just in case it does give you the alert, follow these steps:
