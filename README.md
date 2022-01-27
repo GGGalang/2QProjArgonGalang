@@ -1,4 +1,4 @@
-# 2QProjArgonGalang: Latest Update only for AA1.
+# 2QProjArgonGalang: Latest Update only for AA1. THIS REPO IS ARCHIVED
 The repository host for the PASAMA Project, v1.x!
 
 # NOTE: I AM NOW USING THE SITE HOST REPO FOR FUTURE UPDATES. THIS REPO IS DISCONTINUED, AND WILL NO LONGER RECEIVE UPDATES.
